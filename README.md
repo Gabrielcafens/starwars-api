@@ -37,7 +37,7 @@ A API permite realizar as seguintes operações:
    npm start
 ```
 
-**Configuração:***
+**Configuração:**
 
 Para conectar-se ao MongoDB, você precisa fornecer uma string de conexão válida. Este projeto utiliza o MongoDB Atlas para hospedagem do banco de dados.
 
@@ -49,8 +49,6 @@ No arquivo index.js, substitua a string de conexão pelo seu próprio URI do Mon
 ```
 A aplicação estará disponível em http://localhost:3030.
 
-
-**Configuração:***
 
 ## Endpoints
 
